@@ -1,0 +1,16 @@
+Patient_ID;Gender;Blood_Type;Weight;Waist;Pulse;Smoking_Status;Symptom_Severity;Exercise_Frequency;Insurance_Type;admission_date;discharge_date;therapy_session1;therapy_session2;therapy_session3;Age;Height
+P200;Non-binary;AB+;244.0;49.0;;Former-smoker;;Rarely;Private;2024-10-03;2024-10-09;2024-10-04;2024-10-06;2024-10-09;43;178
+P201;Female;B-;;31.0;47.0;Smoker;Severe;Rarely;Private;2024-07-29;2024-08-06;2024-07-30;2024-08-01;2024-08-04;56;168
+P202;Other;AB+;131.0;;;;Mild;Never;None;2024-05-31;2024-06-09;2024-06-01;2024-06-05;2024-06-07;82;156
+P203;Non-binary;O-;194.0;31.0;73.0;Smoker;Moderate;Often;None;2024-04-01;2024-04-07;2024-04-02;;2024-04-07;25;163
+P204;Male;O+;212.0;32.0;64.0;Non-smoker;Severe;Regular;Public;2024-10-20;2024-10-29;2024-10-21;2024-10-24;2024-10-27;73;187
+P205;Male;B-;;25.0;50.0;Former-smoker;Mild;Often;Public;2024-03-20;2024-03-25;;2024-03-22;2024-03-24;;184
+P206;Other;A-;210.0;30.0;;Non-smoker;Mild;Rarely;None;;2024-04-07;2024-03-30;2024-04-02;2024-04-06;46;178
+P207;Male;A-;247.0;27.0;79.0;Former-smoker;Moderate;Often;Public;2024-01-11;2024-01-16;2024-01-11;2024-01-13;2024-01-16;47;173
+P208;Other;AB+;135.0;40.0;;Non-smoker;;Rarely;Public;;2024-07-22;2024-07-16;2024-07-20;2024-07-22;62;
+P209;;B-;171.0;27.0;42.0;Non-smoker;Severe;Rarely;Private;2024-08-02;;2024-08-02;2024-08-05;2024-08-07;29;
+P210;Other;O+;210.0;34.0;71.0;Former-smoker;Mild;;Private;2024-09-10;2024-09-17;2024-09-11;2024-09-15;2024-09-17;35;159
+P211;Male;A-;;42.0;89.0;Non-smoker;Moderate;Never;Public;2024-05-03;2024-05-10;2024-05-04;2024-05-06;2024-05-10;;190
+P212;Non-binary;B+;157.0;41.0;56.0;Non-smoker;Moderate;Often;None;2024-06-29;2024-07-09;2024-06-30;2024-07-04;2024-07-08;59;165
+P213;;AB+;;34.0;;Smoker;Mild;Rarely;Public;2024-02-14;2024-02-24;2024-02-14;2024-02-18;2024-02-22;47;
+P214;Other;O+;156.0;40.0;;Former-smoker;Mild;Never;Private;2024-03-08;2024-03-16;2024-03-09;;2024-03-15;67;164

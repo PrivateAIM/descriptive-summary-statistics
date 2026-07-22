@@ -1,0 +1,8 @@
+numpy>=2.0
+pandas>=2.0
+scikit-learn>=1.4
+matplotlib>=3.8
+seaborn>=0.13
+plotly>=6.0
+prince>=0.13
+flame @ git+https://github.com/PrivateAIM/python-sdk-patterns.git@a3643a14bb52842138455174ea8cb5b27d071ba3
